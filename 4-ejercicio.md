@@ -40,7 +40,9 @@ recordar que a es el puerto que usó para el mapeo con wordpress
 
 
 ### Eliminar el contenedor wordpress
-# COMPLETAR
+
+<img width="744" height="55" alt="image" src="https://github.com/user-attachments/assets/ac91992c-b3b7-4a7b-93c5-56b4515abce4" />
+
 
 ### Crear nuevamente el contenedor wordpress
 Ingresar a: http://localhost:9300/ 

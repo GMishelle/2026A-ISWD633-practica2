@@ -31,7 +31,8 @@ docker run -d --name <nombre contenedor> -e <nombre variable1>=<valor1> -e <nomb
 
 
 ### Identificar el problema
-# COMPLETAR
+
+El inconveniente ocurrió porque se creó un contenedor de MySQL sin establecer la variable de entorno requerida MYSQL_ROOT_PASSWORD, lo que impidió que el servicio iniciara correctamente. Para solucionarlo, se eliminó el contenedor anterior y se generó uno nuevo, esta vez definiendo una contraseña para el usuario root, lo que permitió que MySQL funcionara sin errores.
 
 ### Para crear un contenedor con variables de entorno especificadas
 - Portabilidad: Las aplicaciones se vuelven más portátiles y pueden ser desplegadas en diferentes entornos (desarrollo, pruebas, producción) simplemente cambiando el archivo de variables de entorno.

@@ -26,7 +26,9 @@ docker run -d --name <nombre contenedor> -e <nombre variable1>=<valor1> -e <nomb
 
 
 ### ¿El contenedor se está ejecutando?
-# COMPLETAR
+
+<img width="938" height="202" alt="image" src="https://github.com/user-attachments/assets/f9d18c0b-b1bd-4c87-84d5-7c7d2001beed" />
+
 
 ### Identificar el problema
 # COMPLETAR

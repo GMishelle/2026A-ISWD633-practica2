@@ -19,7 +19,8 @@ docker run -d --name wordpress-wp --network net-wp -e WORDPRESS_DB_HOST=mysql-wp
 <img width="1347" height="526" alt="image" src="https://github.com/user-attachments/assets/162d6be5-249a-4613-8c63-796a0458ec12" />
 
 
-De acuerdo con el trabajo realizado, en el esquema del ejercicio el puerto a es **(completar con el valor)**
+
+De acuerdo con el trabajo realizado, en el esquema del ejercicio el puerto a es 9300.
 
 Ingresar desde el navegador al wordpress y finalizar la configuración de instalación.
 # COLOCAR UNA CAPTURA DE LA CONFIGURACIÓN

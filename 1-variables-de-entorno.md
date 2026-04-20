@@ -43,4 +43,5 @@ El error surgió porque se intentó levantar un contenedor de MySQL sin especifi
 - Control de Acceso: Los archivos de variables de entorno pueden ser gestionados con permisos específicos, limitando quién puede ver o modificar la configuración sensible.
 
 ### ¿Qué bases de datos existen en el contenedor creado?
-# COMPLETAR
+
+En el contenedor de MySQL se encuentran las bases de datos predeterminadas del sistema, que son: information_schema, mysql, performance_schema y sys. Estas se crean automáticamente y son necesarias para el funcionamiento interno del servidor.

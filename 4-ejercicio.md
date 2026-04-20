@@ -25,6 +25,10 @@ De acuerdo con el trabajo realizado, en el esquema del ejercicio el puerto a es 
 Ingresar desde el navegador al wordpress y finalizar la configuración de instalación.
 # COLOCAR UNA CAPTURA DE LA CONFIGURACIÓN
 
+<img width="649" height="650" alt="image" src="https://github.com/user-attachments/assets/1bf37ee5-2bb3-44ce-a8f1-fb321e216fd3" />
+
+<img width="816" height="416" alt="image" src="https://github.com/user-attachments/assets/626cbd7c-ce82-457c-97b1-32575802e873" />
+
 Desde el panel de admin: cambiar el tema y crear una nueva publicación.
 Ingresar a: http://localhost:9300/ 
 recordar que a es el puerto que usó para el mapeo con wordpress

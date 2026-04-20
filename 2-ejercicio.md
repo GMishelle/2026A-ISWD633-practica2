@@ -5,7 +5,8 @@
 
 ### Crear un cliente de postgres. Usar la imagen: dpage/pgadmin4
 
-# COMPLETAR
+<img width="1234" height="375" alt="image" src="https://github.com/user-attachments/assets/9aa601b7-64f7-49b0-ad62-f7556ede2011" />
+
 
 La figura presenta el esquema creado en donde los puertos son:
 - a: (completar con el valor)
@@ -17,6 +18,7 @@ La figura presenta el esquema creado en donde los puertos son:
 ## Desde el cliente
 ### Acceder desde el cliente al servidor postgres creado.
 # COMPLETAR CON UNA CAPTURA DEL LOGIN
+
 ### Crear la base de datos info, y dentro de esa base la tabla personas, con id (serial) y nombre (varchar), agregar un par de registros en la tabla, obligatorio incluir su nombre.
 
 ## Desde el servidor postgresl

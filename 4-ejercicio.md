@@ -6,7 +6,9 @@
 <img width="631" height="47" alt="image" src="https://github.com/user-attachments/assets/7cd8bd80-33e7-4b90-864b-ed7a361bed2f" />
 
 ### Crear el contenedor mysql a partir de la imagen mysql:8, configurar las variables de entorno necesarias
-# COMPLETAR
+
+<img width="1345" height="295" alt="image" src="https://github.com/user-attachments/assets/9abc71a2-7f52-4c75-b048-528844cc4dff" />
+
 
 ### Crear el contenedor wordpress a partir de la imagen: wordpress, configurar las variables de entorno necesarias
 # COMPLETAR

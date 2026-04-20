@@ -27,12 +27,17 @@ Ingresar desde el navegador al wordpress y finalizar la configuración de instal
 
 <img width="649" height="650" alt="image" src="https://github.com/user-attachments/assets/1bf37ee5-2bb3-44ce-a8f1-fb321e216fd3" />
 
+
+
 <img width="816" height="416" alt="image" src="https://github.com/user-attachments/assets/626cbd7c-ce82-457c-97b1-32575802e873" />
 
 Desde el panel de admin: cambiar el tema y crear una nueva publicación.
 Ingresar a: http://localhost:9300/ 
 recordar que a es el puerto que usó para el mapeo con wordpress
 # COLOCAR UNA CAPTURA DEL SITO EN DONDE SEA VISIBLE LA PUBLICACIÓN.
+
+<img width="1365" height="724" alt="image" src="https://github.com/user-attachments/assets/bf27e1c6-ed65-4b83-b33c-762eeb9e7b85" />
+
 
 ### Eliminar el contenedor wordpress
 # COMPLETAR

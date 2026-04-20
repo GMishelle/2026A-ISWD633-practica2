@@ -60,7 +60,10 @@ docker network ls
 
 # COLOCAR UNA CAPTURA DE LAS REDES EXISTENTES CREADAS
 
-<img width="601" height="249" alt="image" src="https://github.com/user-attachments/assets/c930efef-7a48-493e-8299-520aca70fadc" />
+<img width="657" height="97" alt="image" src="https://github.com/user-attachments/assets/20efd739-8302-47ef-8100-c601f8e7a825" />
+
+
+<img width="683" height="227" alt="image" src="https://github.com/user-attachments/assets/59f918ee-8605-4cc6-a631-6e2cf0fde5dc" />
 
 
 # COLOCAR UNA(S) CAPTURAS(S) DE LOS CONTENEDORES CREADOS EN DONDE SE EVIDENCIE A QUÉ RED ESTÁN VINCULADOS

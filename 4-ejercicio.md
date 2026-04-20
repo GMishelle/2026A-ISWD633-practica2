@@ -49,5 +49,6 @@ Ingresar a: http://localhost:9300/
 recordar que a es el puerto que usó para el mapeo con wordpress
 
 ### ¿Qué ha sucedido, qué puede observar?
-# COMPLETAR
+
+Aunque el contenedor de WordPress fue eliminado y creado nuevamente, el sitio no perdió su información. La razón es que los datos del sistema, como las publicaciones y configuraciones, se almacenan en la base de datos MySQL y no dentro del contenedor de WordPress. Debido a que dicha base de datos permaneció intacta, al conectar el nuevo contenedor con ella, todo el contenido previo se mantuvo disponible sin necesidad de volver a configurarlo.
 
